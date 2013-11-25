@@ -1,0 +1,30 @@
+{
+  "name": "karma-growl",
+  "version": "0.1.0",
+  "description": "Growl notification for Karma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heartsentwined/karma-growl.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-reporter",
+    "karma-plugin",
+    "growl"
+  ],
+  "author": {
+    "name": "heartsentwined",
+    "email": "heartsentwined.me@gmail.com"
+  },
+  "dependencies": {
+    "growl": "*"
+  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heartsentwined/karma-growl/issues"
+  }
+}
