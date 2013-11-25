@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "growl": "*"
-  }
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/heartsentwined/karma-growl/issues"
