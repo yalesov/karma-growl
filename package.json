@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/heartsentwined/karma-growl.git"
+    "url": "git://github.com/yalesov/karma-growl.git"
   },
   "keywords": [
     "karma",
@@ -16,15 +16,13 @@
     "karma-plugin",
     "growl"
   ],
-  "author": {
-    "name": "heartsentwined",
-    "email": "heartsentwined.me@gmail.com"
+  "author": "Yulij Andreevich Lesov <yalesov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yalesov/karma-growl/issues"
   },
+  "homepage": "https://github.com/yalesov/karma-growl",
   "dependencies": {
     "growl": "*"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/heartsentwined/karma-growl/issues"
   }
 }
